@@ -1,0 +1,10 @@
+{
+  "liveServer.settings.port": 5501,
+  "liveServer.settings.root": "/",
+  "liveServer.settings.https": {
+    "enable": true,
+    "cert": "/Users/Scott/Desktop/WebDevelopment/https/localhost.pem",
+    "key": "/Users/Scott/Desktop/WebDevelopment/https/localhost.key",
+    "passphrase": "12345"
+  }
+}
